@@ -27,7 +27,11 @@ Employee can do things customer can do
 
 Manager can do things employee and customer can do
   
-
+## Technologies Used
+- Java
+- SQLite
+- Java Swing widget toolkit
 
 ## Usage
 This is a Netbeans project open and run with Netbeans IDE.
+
