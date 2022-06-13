@@ -33,7 +33,9 @@ Manager can do things employee and customer can do
 - Java Swing Widget Toolkit
 
 ## Usage
-This is a Netbeans project open and run with Netbeans IDE.
+This is a Netbeans project open and run with NetBeans IDE.
+
+Tested on NetBeans IDE 8.0.2
 
 ## Note
 User interface language is turkish
