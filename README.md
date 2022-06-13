@@ -30,7 +30,7 @@ Manager can do things employee and customer can do
 ## Technologies Used
 - Java
 - SQLite
-- Java Swing widget toolkit
+- Java Swing Widget Toolkit
 
 ## Usage
 This is a Netbeans project open and run with Netbeans IDE.
