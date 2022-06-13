@@ -35,6 +35,6 @@ Manager can do things employee and customer can do
 ## Usage
 This is a Netbeans project open and run with Netbeans IDE.
 
-### Note
+## Note
 User interface language is turkish
 
