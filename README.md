@@ -39,5 +39,5 @@ Tested on NetBeans IDE 8.0.2
 
 ## Notes
 - This project hasnt associated with any bank. Its written just for learning purposes and university assignment.
-- User interface language is turkish
+- User interface language is turkish.
 
